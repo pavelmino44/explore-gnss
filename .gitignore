@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Файлы данных (если они генерируются или большие)
+*.nmea
+*.rinex
+*.obs
+*.nav
+*.sp3
+*.snx
+*.blq
+
+# Выходные файлы GNSS (результаты расчетов, графики)
+output/
+results/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.csv
+
+# Конфиги с секретами/путями
+.env
+config.local.py
+
+# Файлы отчетов
+*.xml
+*.html

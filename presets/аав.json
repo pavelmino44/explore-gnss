@@ -1,0 +1,46 @@
+{
+  "beacons": [
+    {
+      "x": 62.0,
+      "y": 21.0,
+      "enabled": true,
+      "id": 1
+    },
+    {
+      "x": -187.0,
+      "y": 102.0,
+      "enabled": true,
+      "id": 2
+    },
+    {
+      "x": -95.0,
+      "y": -187.0,
+      "enabled": true,
+      "id": 3
+    },
+    {
+      "x": 202.0,
+      "y": -91.0,
+      "enabled": true,
+      "id": 4
+    },
+    {
+      "x": 152.0,
+      "y": 94.0,
+      "enabled": true,
+      "id": 5
+    },
+    {
+      "x": 20.0,
+      "y": 190.0,
+      "enabled": true,
+      "id": 6
+    }
+  ],
+  "receiver": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "noise_std": 5.0,
+  "measurement_error": 0.0
+}
